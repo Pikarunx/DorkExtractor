@@ -1,3 +1,4 @@
+#Encoded By Pikarun
 import sys
 
 # Check version
